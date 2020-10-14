@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f96a6c9-95d1-4995-9c01-3f25a06e997c" name="Default Changelist" comment="" />
+    <list default="true" id="1f96a6c9-95d1-4995-9c01-3f25a06e997c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baivenha.html" beforeDir="false" afterPath="$PROJECT_DIR$/baivenha.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/V1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +76,9 @@
       <workItem from="1602496221000" duration="2482000" />
       <workItem from="1602498751655" duration="326000" />
       <workItem from="1602552473607" duration="8000" />
-      <workItem from="1602583457554" duration="2107000" />
+      <workItem from="1602583457554" duration="2454000" />
+      <workItem from="1602651519974" duration="259000" />
+      <workItem from="1602657394031" duration="4321000" />
     </task>
     <servers />
   </component>
@@ -88,5 +96,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602585493605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602585493605" />
   </component>
 </project>
