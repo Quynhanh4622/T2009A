@@ -19,13 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f96a6c9-95d1-4995-9c01-3f25a06e997c" name="Default Changelist" comment="lab2">
+    <list default="true" id="1f96a6c9-95d1-4995-9c01-3f25a06e997c" name="Default Changelist" comment="lab">
+      <change afterPath="$PROJECT_DIR$/imgs/page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive/CSS/lab3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baivenha.html" beforeDir="false" afterPath="$PROJECT_DIR$/baivenha.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imgs/V1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +98,15 @@
       <workItem from="1603093245113" duration="5348000" />
       <workItem from="1603113539853" duration="153000" />
       <workItem from="1603115649770" duration="5125000" />
-      <workItem from="1603157288019" duration="298000" />
+      <workItem from="1603157288019" duration="726000" />
+      <workItem from="1603262840051" duration="3661000" />
+      <workItem from="1603330385755" duration="6000" />
+      <workItem from="1603435016017" duration="1559000" />
+      <workItem from="1603437175727" duration="5834000" />
+      <workItem from="1603460739248" duration="132000" />
+      <workItem from="1603611171017" duration="2326000" />
+      <workItem from="1603634792894" duration="483000" />
+      <workItem from="1603635300813" duration="2397000" />
     </task>
     <task id="LOCAL-00001" summary="abc">
       <created>1602662033919</created>
@@ -117,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603120331424</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lab">
+      <created>1603157628136</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603157628136</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,12 +157,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="abc" />
     <MESSAGE value="lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab2" />
+    <MESSAGE value="lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1603120336390">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1603157633687">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603120336390" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603157633687" />
   </component>
 </project>
